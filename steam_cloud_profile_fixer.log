@@ -1,0 +1,79 @@
+************ : log created on : Friday September 15 2023 @ 15:12:39
+00:00:00.000 : [fs] device C:/OFF STEAM GAMES/555 mounted.
+00:00:00.002 : Mounting home dir 'C:/Users/DEMOLIZ/Documents/Euro Truck Simulator 2'
+00:00:00.002 : [fs] device C:/Users/DEMOLIZ/Documents/Euro Truck Simulator 2 mounted.
+00:00:00.669 : [fs] device  mounted.
+00:00:00.670 : Ignoring '/mounted/documents/global_controls.sii' as it is not SCSC format
+00:00:00.670 : Ignoring '/mounted/documents/inventory_item_data.sii' as it is not SCSC format
+00:00:00.673 : Ignoring '/mounted/documents/live_streams.sii' as it is not SCSC format
+00:00:00.674 : Ignoring '/mounted/documents/mods_info.sii' as it is not SCSC format
+00:00:00.674 : Ignoring '/mounted/documents/news.sii' as it is not SCSC format
+00:00:00.674 : Ignoring '/mounted/documents/online/update_info.sii' as it is not SCSC format
+00:00:00.675 : Ignoring '/mounted/documents/saved_session_list.sii' as it is not SCSC format
+00:00:00.675 : Ignoring '/mounted/documents/server_config.sii' as it is not SCSC format
+00:00:00.675 : Ignoring '/mounted/documents/steam_profiles/44656D306C695A/gearbox_layout_scania_12.sii' as it is not SCSC format
+00:00:00.675 : Ignoring '/mounted/documents/steam_profiles/44656D306C695A/gearbox_layout_scania_12_2.sii' as it is not SCSC format
+00:00:00.676 : Ignoring '/mounted/documents/steam_profiles/44656D306C695A/gearbox_layout_volvo_12.sii' as it is not SCSC format
+00:00:00.676 : Ignoring '/mounted/documents/steam_profiles/44656D306C695A/gearbox_layout_volvo_12_2.sii' as it is not SCSC format
+00:00:00.676 : Ignoring '/mounted/documents/steam_profiles/44656D306C695A/gearbox_layout_zf_12.sii' as it is not SCSC format
+00:00:00.676 : Ignoring '/mounted/documents/steam_profiles/44656D306C695A/gearbox_layout_zf_16.sii' as it is not SCSC format
+00:00:00.683 : File '/mounted/steam/profiles/44656D306C695A/profile.sii' is correct
+00:00:00.684 : File '/mounted/steam/profiles/44656D306C695A/profile.bak.sii' is correct
+00:00:00.689 : File '/mounted/steam/profiles/44656D306C695A/save/1/info.sii' is correct
+00:00:00.697 : File '/mounted/steam/profiles/44656D306C695A/save/1/game.sii' is correct
+00:00:00.701 : File '/mounted/steam/profiles/44656D306C695A/save/autosave/info.sii' is correct
+00:00:00.707 : File '/mounted/steam/profiles/44656D306C695A/save/autosave/game.sii' is correct
+00:00:00.711 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive/info.sii' is correct
+00:00:00.720 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive/game.sii' is correct
+00:00:00.724 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_1/info.sii' is correct
+00:00:00.733 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_1/game.sii' is correct
+00:00:00.737 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_2/info.sii' is correct
+00:00:00.747 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_2/game.sii' is correct
+00:00:00.750 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_3/info.sii' is correct
+00:00:00.758 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_3/game.sii' is correct
+00:00:00.763 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_4/info.sii' is correct
+00:00:00.774 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_4/game.sii' is correct
+00:00:00.778 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_5/info.sii' is correct
+00:00:00.789 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_5/game.sii' is correct
+00:00:00.793 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_6/info.sii' is correct
+00:00:00.803 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_6/game.sii' is correct
+00:00:00.807 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_7/info.sii' is correct
+00:00:00.816 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_7/game.sii' is correct
+00:00:00.820 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_8/info.sii' is correct
+00:00:00.830 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_8/game.sii' is correct
+00:00:00.835 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_9/info.sii' is correct
+00:00:00.844 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_drive_9/game.sii' is correct
+00:00:00.848 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job/info.sii' is correct
+00:00:00.851 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job/game.sii' is correct
+00:00:00.855 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_1/info.sii' is correct
+00:00:00.858 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_1/game.sii' is correct
+00:00:00.861 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_2/info.sii' is correct
+00:00:00.863 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_2/game.sii' is correct
+00:00:00.866 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_3/info.sii' is correct
+00:00:00.870 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_3/game.sii' is correct
+00:00:00.873 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_4/info.sii' is correct
+00:00:00.876 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_4/game.sii' is correct
+00:00:00.879 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_5/info.sii' is correct
+00:00:00.888 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_5/game.sii' is correct
+00:00:00.892 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_6/info.sii' is correct
+00:00:00.901 : File '/mounted/steam/profiles/44656D306C695A/save/autosave_job_6/game.sii' is correct
+00:00:00.905 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup/info.sii' is correct
+00:00:00.914 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup/game.sii' is correct
+00:00:00.918 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_1/info.sii' is correct
+00:00:00.927 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_1/game.sii' is correct
+00:00:00.931 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_2/info.sii' is correct
+00:00:00.940 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_2/game.sii' is correct
+00:00:00.944 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_3/info.sii' is correct
+00:00:00.953 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_3/game.sii' is correct
+00:00:00.957 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_4/info.sii' is correct
+00:00:00.960 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_4/game.sii' is correct
+00:00:00.963 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_5/info.sii' is correct
+00:00:00.967 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_5/game.sii' is correct
+00:00:00.970 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_6/info.sii' is correct
+00:00:00.973 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_6/game.sii' is correct
+00:00:00.976 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_7/info.sii' is correct
+00:00:00.985 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_7/game.sii' is correct
+00:00:00.989 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_8/info.sii' is correct
+00:00:00.998 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_8/game.sii' is correct
+00:00:01.002 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_9/info.sii' is correct
+00:00:01.010 : File '/mounted/steam/profiles/44656D306C695A/save/multiplayer_backup_9/game.sii' is correct
